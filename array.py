@@ -1,5 +1,5 @@
 #count element 
-a = [2,2,6,5,7,2]
+a = [2,2,6,5,7,2,6,7]
 target = 1
 counter = 0
 for i in a:
